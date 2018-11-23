@@ -1,5 +1,9 @@
 # Suricata-Opensuse-15
 
+<p align="center">
+  <img src="https://i.imgur.com/306CJ0d.jpg">
+</p>
+
 ### El documento con la configuracion del archivo "suricata.yaml" esta en el repositorio con el nombre : Instalar y configurar Suricata IDS en Opensuse Leap 15.docx
 ### Puedes ver un video demostrativo de su funcionamiento aqui.
 ___
